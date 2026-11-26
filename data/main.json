@@ -1,0 +1,19 @@
+{
+  "_site": {
+    "logo": "img/logo.png",
+    "pricing": "Ceník",
+    "contacts": "Kontakt"
+  },
+  "lucinka_crochet": {
+    "template": "home",
+    "title": "Lucinka Crochet"
+  },
+  "cenik": {
+    "template": "price",
+    "title": "Ceník"
+  },
+  "kontakt": {
+    "template": "contact",
+    "title": "Kontakt"
+  }
+}
